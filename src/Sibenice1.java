@@ -30,6 +30,9 @@ public class Sibenice1 {
             Scanner scanner = new Scanner("slovnik.txt");
             List<String> slova = new ArrayList<>();
           
+            while (scanner.hasNext()) {
+                slova.add(scanner.nextLine());
+            }
             Random rand = new Random();
             slovo = slova.get(rand.nextInt(slova.size()));
 
