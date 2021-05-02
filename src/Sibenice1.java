@@ -139,7 +139,7 @@ public class Sibenice1 {
                     System.out.println(" -------  ");
                     System.out.println(" |     |  ");
                     System.out.println(" O     |  ");
-                    System.out.println(" |\\   |  ");
+                    System.out.println(" |\\    |  ");
                     System.out.println("       |  ");
                     System.out.println("       |  ");
                     System.out.println("**********");
@@ -150,7 +150,7 @@ public class Sibenice1 {
                     System.out.println(" -------  ");
                     System.out.println(" |     |  ");
                     System.out.println(" O     | ");
-                    System.out.println("/|\\   |  ");
+                    System.out.println("/|\\    |  ");
                     System.out.println("       |  ");
                     System.out.println("       |  ");
                     System.out.println("**********");
@@ -161,7 +161,7 @@ public class Sibenice1 {
                     System.out.println(" -------  ");
                     System.out.println(" |     |  ");
                     System.out.println(" O     |  ");
-                    System.out.println("/|\\   |  ");
+                    System.out.println("/|\\    |  ");
                     System.out.println("/      |  ");
                     System.out.println("       |  ");
                     System.out.println("**********");
@@ -172,8 +172,8 @@ public class Sibenice1 {
                     System.out.println(" -------  ");
                     System.out.println(" |     |  ");
                     System.out.println(" O     |  ");
-                    System.out.println("/|\\   |  ");
-                    System.out.println("/ \\   |  ");
+                    System.out.println("/|\\    |  ");
+                    System.out.println("/ \\    |  ");
                     System.out.println("       |  ");
                     System.out.println("**********");
                 }
